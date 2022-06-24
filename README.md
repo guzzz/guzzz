@@ -39,10 +39,8 @@
   <img align="left" title="MySQL" height="42" src="images/mysql.svg">
   <img align="left" title="Mongodb" height="42" src="images/mongodb.svg">
   <img align="left" title="DynamoDB" height="42" src="images/dynamodb.svg">
-  <img align="left" title="HTML" height="42" src="images/html5.png">
-  <img align="left" title="CSS" height="42" src="images/css.png">
-  <img align="left" title="Javascript" height="42" src="images/javascript.png">
   <img align="left" title="Github" height="42" src="images/github.png">
+<br>
 </p>
 
 <br>
