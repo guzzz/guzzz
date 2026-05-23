@@ -2,7 +2,6 @@
   <img title="hey-there" src="images/hey-there-new-image.svg">
 </h1>
 
-<h2 align="center">Daniel Guzman</h2>
 <h3 align="center">Senior Software Engineer &nbsp;·&nbsp; Tech Lead &nbsp;·&nbsp; Systems Architect</h3>
 
 <p align="center">
@@ -22,9 +21,6 @@
   </a>
 </div>
 
-<hr>
-
-<hr>
 
 <h3 align="center">Tech Stack</h3>
 
@@ -53,8 +49,3 @@
   &nbsp;
   <img title="JavaScript" height="40" src="images/javascript.png">
 </div>
-
-<hr>
-
-
-<hr>
